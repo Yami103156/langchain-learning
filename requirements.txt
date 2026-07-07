@@ -8,3 +8,7 @@ arxiv
 wikipedia
 pymupdf
 lanchain-text-splitters
+chromadb
+sentence-transformers
+langchain-openai
+langchain_huggingface
