@@ -16,11 +16,6 @@ __pycache__/
 # VS Code
 .vscode/
 
-# FAISS vector stores
-*.faiss
-*.pkl
-faiss_index/
-vectorstore/
 
 # OS files
 .DS_Store
